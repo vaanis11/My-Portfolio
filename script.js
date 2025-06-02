@@ -50,7 +50,7 @@ window.addEventListener('scroll', () => {
 });
 
 // Typewriter effect for hero section
-const roles = ['Data Scientist', 'Cybersecurity Analyst', 'ML Engineer', 'Security Researcher'];
+const roles = ['Data Scientist', 'Cybersecurity Analyst', 'Graphic Designer', 'Web Developer', 'Security Researcher'];
 let currentRoleIndex = 0;
 let currentCharIndex = 0;
 let isDeleting = false;
